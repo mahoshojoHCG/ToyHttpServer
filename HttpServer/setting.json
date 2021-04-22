@@ -1,0 +1,5 @@
+{
+  "BindAddress": "::1",
+  "BindPort": "5001",
+  "RootFolder": "wwwroot" 
+}
